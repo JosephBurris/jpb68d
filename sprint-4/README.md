@@ -1,6 +1,6 @@
 So, the hardest part about this is probably the setup that I had to go through.
 
-1.) Download XAMPP or some sort of application that will let you run localhost through your machine (specifically an Apache web server.
+1.) Download XAMPP or some sort of application that will let you run localhost through your machine (specifically an Apache web server).
 
 2.) Turn on the Apache web server in XAMPP (or whatever app you chose)
 
