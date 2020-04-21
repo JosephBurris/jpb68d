@@ -1,6 +1,6 @@
 So, the hardest part about this is probably the setup that I had to go through.
 
-1.) Download XAMPP or some sort of application that will let you run localhost through your machine (specifically an Apache web
+1.) Download XAMPP or some sort of application that will let you run localhost through your machine (specifically an Apache web\n
 server.
 2.) Turn on the Apache web server in XAMPP (or whatever app you chose)
 3.) Place the 2 documents (home.php/index.php) directly into the htdocs folder for XAMPP (I'm not entirely sure what to do for
