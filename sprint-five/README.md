@@ -8,8 +8,12 @@ in an email with it that is able to be verified). However, I have provided a tes
 test162345@gmail.com, and the password is: _Opensaysm3. There are also instructions on how to switch your user in the index
 page.
 
-New Features for Sprint 2:
+New Features for Second Iteration:
 - Added a feature to sign in as a different user (must wait 60 sec. after logging in).
 - Added a survey feature that asks/displays several questions about the user's experience with the Software Engineering class.
   - This is done by sending a Request to a php page on the server that then sends the info to differing text files on the server for each question.
 - Added a create user function that adds the user to the database provided by the Okta API.
+
+New Features for Final Iteration:
+- Added more questions for the user to complete.
+- Simplified some of the code.
